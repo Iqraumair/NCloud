@@ -1,0 +1,15 @@
+{
+"FName" : "Test",
+"LName" : "User",
+"email" : "nurturecloud.testuser@gmail.com",
+"password" : "NCloudtest123", 
+"Mobile" : "0491570157",
+
+"FNameWrong" : "123%",
+"LNameWrong" : "45@",
+"emailWrong" : "nurturecloud",
+"MobileWrong" : "3456$g"
+
+
+
+}
