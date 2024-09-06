@@ -6,7 +6,7 @@ module.exports = defineConfig({
     env : {
 
       Link : 'individual-rise@o4lafzwk.mailosaur.net',
-      MAILOSAUR_API_KEY: "sQ9ECLJNVbk1yO0fAQeILrkI8WME4lJ4"
+      
 
 
     },
